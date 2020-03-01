@@ -1,0 +1,17 @@
+com\profile\dao\UserDao.class
+com\profile\config\Swagger2Config.class
+com\profile\model\AddressDTO.class
+com\profile\config\JwtRequestFilter.class
+com\profile\model\DAOAddress.class
+com\profile\service\JwtUserDetailsService.class
+com\profile\model\UserDTO.class
+com\profile\controller\JwtAuthenticationController.class
+com\profile\config\EmailUtil.class
+com\profile\config\WebSecurityConfig.class
+com\profile\model\DAOUser.class
+com\profile\config\JwtAuthenticationEntryPoint.class
+com\profile\model\JwtRequest.class
+com\profile\dao\AddressDao.class
+com\profile\config\JwtTokenUtil.class
+com\profile\model\JwtResponse.class
+com\profile\Application.class
